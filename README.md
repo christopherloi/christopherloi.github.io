@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name]! 👋
+# Hi there, I'm [Your Name]! 👋
 
 Welcome to my GitHub profile! I'm a passionate [your profession or interests] with expertise in [specific areas of interest]. Here you'll find a collection of my projects and contributions.
 
@@ -16,11 +16,13 @@ Welcome to my GitHub profile! I'm a passionate [your profession or interests] wi
 
 ## 📫 Get in touch
 
-- Twitter: [twitter.com/your-handle](https://twitter.com/your-handle)
-- LinkedIn: [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
+[![Twitter Follow](https://img.shields.io/twitter/follow/your-handle?style=social)](https://twitter.com/your-handle)
+[![LinkedIn Connect](https://img.shields.io/badge/Connect-LinkedIn-blue)](https://www.linkedin.com/in/your-profile)
 
 Feel free to reach out if you have any questions, collaboration ideas, or just want to say hi!
 
 ## ⚡ Fun Fact
 
 [Interesting or quirky fact about yourself or a fun project-related fact.]
+
+![Your Name](link-to-profile-picture)
